@@ -1,7 +1,7 @@
-Aprendiendo-Python
+Flujo de trabajo Git-GitHub
 ==================
 
-## Trozos de códigos con comentarios para aprender Python.
+## Trozos de códigos con comentarios para aprender como se comunican.
 
 ### Flujo de trabajo con Git y GitHub:
 1. Creo un repositorio con un README.md en GitHub.
