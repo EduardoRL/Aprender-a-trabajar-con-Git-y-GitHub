@@ -1,4 +1,4 @@
 Aprendiendo-Python
 ==================
 
-Trozos de codigos con comentarios que para aprender Python.
+Trozos de códigos con comentarios para aprender Python.
