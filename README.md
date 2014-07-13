@@ -19,3 +19,8 @@ Aprendiendo-Python
 10.  En PC hay un repositorio y remoto (GitHub) hay otro, vamos a conectarlos con: **git remote add origin https://github.com/EduardoRL/Aprendiendo-Python.git**
 11. Trae todo lo que hay en remoto a mi PC con: **git pull origin master**
 12. Envío todo mi códigos y archivos en mi PC (local) al remoto con: **git push origin master**
+13. Ahora modifico en mi PC el archivo de python subido anteriormente al repositorio remoto.
+14. Hago **git status** y me confirma que he modificado un archivo.
+15. Lo añado al **stage area** con **git add -A**
+16. Le asocio un comentario relacionado con esa modificación: **git commit -m "comentario"**
+17. Vuevlo a subir los cambios al remoto con: **git push origin master** 
