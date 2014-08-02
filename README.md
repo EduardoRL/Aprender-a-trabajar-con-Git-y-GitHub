@@ -23,5 +23,5 @@ Trozos de códigos con comentarios para aprender como se comunican.
 14. Hago **git status** y me confirma que he modificado un archivo.
 15. Lo añado al **stage area** con **git add -A**
 16. Le asocio un comentario relacionado con esa modificación: **git commit -m "comentario"**
-17. Antes de subir los cambios al remoto tengo que sincronizarlos creo ?? ¬¬ con: **git pull origin master**
+17. Antes de subir los cambios al remoto tengo que sincronizarlos con el remoto: **git pull origin master**
 18. Vuevlo a subir los cambios al remoto con: **git push origin master** 
